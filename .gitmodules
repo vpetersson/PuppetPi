@@ -1,0 +1,6 @@
+[submodule "pyfacter"]
+	path = pyfacter
+	url = git://github.com/vpetersson/pyfacter.git
+[submodule "rpiutils"]
+	path = rpiutils
+	url = git://github.com/vpetersson/raspberrypi-utils.git
